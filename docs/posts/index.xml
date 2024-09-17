@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <image>
+      <title>My New Hugo Site</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.134.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Sep 2024 15:01:04 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Trip to Asia</title>
+      <link>http://localhost:1313/posts/my-trip-to-asia/</link>
+      <pubDate>Mon, 16 Sep 2024 15:01:04 -0700</pubDate>
+      <guid>http://localhost:1313/posts/my-trip-to-asia/</guid>
+      <description>A Recap of my 2024 Summer Work &#43; Travel Experience!</description>
+    </item>
+    <item>
+      <title>Intel</title>
+      <link>http://localhost:1313/posts/intel/</link>
+      <pubDate>Mon, 16 Sep 2024 01:14:55 -0700</pubDate>
+      <guid>http://localhost:1313/posts/intel/</guid>
+      <description>&lt;h2 id=&#34;intel-corporation&#34;&gt;Intel Corporation&lt;/h2&gt;
+&lt;p&gt;Intel Corp was founded in 1968 by Robert Noyce and Gordon Moore, both giants in the burgeoning semiconductor industry. Noyce is accredited with the invention of the integrated circuit, a landmark invention that sets the foundation of all modern compute, and Moore is famously known for ‘Moore’s Law’, the empirical relationship between the doubling of a chips’ transistor count every 2 years. In short, Intel was by no means a fledgling.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 15 Sep 2024 22:47:50 -0700</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;a-breakdown-&#34;&gt;a breakdown 🙈&lt;/h2&gt;
+&lt;p&gt;This will be my first post on my website. I&amp;rsquo;m excited to share my experiences with everyone!&lt;/p&gt;
+&lt;p&gt;Because this is an introduction post, I&amp;rsquo;ll spend this time to help you familiarize yourself with the structure of this website.
+In order to avoid clutter, posts will be sorted by the &lt;strong&gt;Tags&lt;/strong&gt; and &lt;strong&gt;Search&lt;/strong&gt; function on the top.
+However, we&amp;rsquo;ll still go over our 3 most important tags here:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
