@@ -146,3 +146,5 @@ noClasses = false
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
+
+theme: ["PaperMod"]
